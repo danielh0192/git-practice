@@ -1,2 +1,3 @@
 name: Daniel
 occupation: Marine
+objective: carry out plan of the day
